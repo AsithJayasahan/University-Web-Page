@@ -1,0 +1,45 @@
+.{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #29261f;
+}
+.about-1{
+	padding: 50px;
+	margin: 30px;
+}
+.about-1 h1{
+	text-align: center;
+	color: #c4981f;
+	font-weight: bold;
+}
+.about-1 p{
+	text-align: center;
+	padding: 5px;
+	color: #faf2dc;
+}
+.about-2{
+	padding: 50px;
+	margin: 30px;
+}
+.about-2 p{
+	padding: 3px;
+	color: #faf2dc;
+}
+.about-2 h3{
+	color: #c4981f;
+	font-weight: bold;
+	font-weight: bold;
+}
+.about-2 h4{
+	color: #bda45e;
+	font-weight: bold;
+}
+.about-2 h5{
+	color: #faf2dc;
+	font-weight: bold;
+}
+.about-2 ul{
+	color: #f5f3ed;
+}
