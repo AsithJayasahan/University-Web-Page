@@ -47,6 +47,12 @@ Designed as part of the **first-year Web System Technologies coursework**, this 
 
 ---
 
+## 🎬 Project Demo Video
+
+https://github.com/user-attachments/assets/3a886828-cca5-4c28-bd45-01035513aa53
+
+---
+
 ## 📦 How to Run
 
 1. Clone the project:
